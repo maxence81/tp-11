@@ -10,7 +10,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- La version de Java utilisée pour compiler le projet -->
-        <maven.compiler.release>21</maven.compiler.release>
+        <maven.compiler.release>24.0.2</maven.compiler.release>
         <!-- configuration du plugin exec-maven-plugin  -->
         <!-- On pourra exécuter le programme avec : 'mvn package exec:java' -->
         <exec.mainClass>exemple.ExempleDUtilisation</exec.mainClass>
